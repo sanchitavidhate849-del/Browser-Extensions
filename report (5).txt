@@ -1,0 +1,19 @@
+Report: Suspicious Browser Extensions Removal
+
+Date: [Enter Date]
+
+1. Browser Used: Chrome
+2. Extensions Reviewed:
+   - Extension A (Legit, kept)
+   - Extension B (Suspicious permissions, removed)
+   - Extension C (Unused, removed)
+3. Suspicious Indicators:
+   - Unnecessary access to browsing history
+   - Poor user reviews or no reviews
+   - Unknown developer source
+4. Actions Taken:
+   - Removed Extension B and C
+   - Restarted browser
+5. Performance Improvements:
+   - Browser startup time improved
+   - Fewer random pop-ups
